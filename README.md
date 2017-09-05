@@ -17,6 +17,9 @@ $ npm install gulp browser-sync gulp-sass --save-dev
 $ gulp --для запуска проекта
 ```
 
+### На публикацию
+- после верстки сайта на публикацию отправляем только папку public
+
 # Для обучения
 * [Gulp](https://gulpjs.com/) - система потоковой сборки
 * [Scss](https://sass-scss.ru/guide/) - это язык предназначенный для упрощения создания CSS-кода.
