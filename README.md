@@ -14,6 +14,7 @@
 ```sh
 $ cd ваша папка с проектом
 $ npm install gulp browser-sync gulp-sass --save-dev
+$ npm install gulp -g
 $ gulp --для запуска проекта
 ```
 
