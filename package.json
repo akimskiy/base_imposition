@@ -1,16 +1,29 @@
 {
-  "name": "imposition",
+  "name": "base_imposition",
   "version": "1.0.0",
-  "description": "",
+  "description": "Примененные технологии:   - node   - gulp   - scss",
   "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp-sass": "^3.1.0",
+    "gulp": "^3.9.1"
   },
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbatyrbayev/base_imposition.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbatyrbayev/base_imposition/issues"
+  },
+  "homepage": "https://github.com/kbatyrbayev/base_imposition#readme"
 }
