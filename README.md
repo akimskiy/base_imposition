@@ -1,3 +1,22 @@
-# base_imposition
-Base imposition for web project
-Базовая верстка для сайта
+# Базовая верстка для веб проектов
+
+Примененные технологии:
+  - node
+  - gulp
+  - scss
+
+# Особенности!
+    - При нажатия ctrl+s синхронна выполняется компиляция проекта в браузере
+    - Scss компилируется в css
+
+### Как запустить проект:
+- надо установить [node.js](https://nodejs.org/en/)
+```sh
+$ cd ваша папка с проектом
+$ npm install gulp browser-sync gulp-sass --save-dev
+$ gulp --для запуска проекта
+```
+
+# Для обучения
+* [Gulp](https://gulpjs.com/) - система потоковой сборки
+* [Scss](https://sass-scss.ru/guide/) - это язык предназначенный для упрощения создания CSS-кода.
